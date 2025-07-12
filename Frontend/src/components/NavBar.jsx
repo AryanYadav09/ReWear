@@ -50,7 +50,7 @@ const NavBar = () => {
           <li
             onClick={() => {
               if (token) {
-                window.location.href = "http://localhost:5176/add"; // change path as needed
+                window.location.href = "http://localhost:5174/add"; // change path as needed
               } else {
                 toast.error("Please login first!");
                 navigate("/login");
