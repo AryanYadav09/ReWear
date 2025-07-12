@@ -19,8 +19,7 @@ const LatestCollection = () => {
       <div className="text-center py-8 text-3xl">
         <Title text1={"CATEGORIES"} text2={"SECTION"} />
         <p className="w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit
-          voluptate consectetur earum repellat
+          Discover a variety of fashion categories — from menswear and womenswear to kids’ clothing and accessories. Browse and exchange pre-loved styles sustainably.
         </p>
       </div>
 
